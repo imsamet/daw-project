@@ -20,7 +20,7 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
-    "icon": "svgr public/icons -d components/icons --icon --replace-attr-values \"#5B5B5B=currentColor=\""
+    "icon": "svgr public/icons -d src/components/icons --icon --replace-attr-values \"#5B5B5B=currentColor=\""
   },
   "eslintConfig": {
     "extends": [
