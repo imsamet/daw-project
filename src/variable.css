@@ -1,0 +1,22 @@
+:root{
+  --c-theme: #FFBA00;
+  --c-red: #FF4936;
+  --c-purple: #7412FF;
+  --c-green: #41E80C;
+  --c-blue: #00D7FF;
+  --c-pink: #F04FFF;
+  --c-text: #5B5B5B;
+  --c-border: #A7A7A7;
+  --c-soft-grey: #DCDCDC;
+  --c-bg-soft-grey: #F5F5F5;
+  --c-bg: #FFFFFF;
+  --c-select: #9C7406;
+  --c-theme-fill: #FFF1CC;
+  --c-pink-fill: #FFE8FF;
+  --c-red-fill: #FFECEA;
+  --c-blue-fill: #DDFAFF;
+  --c-green-fill: #E3FFDA;
+  --c-purple-fill: #EEE8FF;
+  --c-purple-fill: #EEE8FF;
+  --c-graphic-bg: #bfbfbf3d;
+}
